@@ -1,0 +1,1000 @@
+<http://www.museumsvokabular.de/museumvok/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://web.resource.org/cc/Work> .
+<http://www.museumsvokabular.de/museumvok/> <http://web.resource.org/cc/license> <http://creativecommons.org/licenses/by-nc-sa/2.0/de/> .
+<http://www.museumsvokabular.de/museumvok/> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .
+<http://creativecommons.org/licenses/by-nc-sa/2.0/de/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://web.resource.org/cc/License> .
+<http://creativecommons.org/licenses/by-nc-sa/2.0/de/> <http://web.resource.org/cc/permits> <http://web.resource.org/cc/Reproduction> .
+<http://creativecommons.org/licenses/by-nc-sa/2.0/de/> <http://web.resource.org/cc/permits> <http://web.resource.org/cc/Distribution> .
+<http://creativecommons.org/licenses/by-nc-sa/2.0/de/> <http://web.resource.org/cc/requires> <http://web.resource.org/cc/Notice> .
+<http://creativecommons.org/licenses/by-nc-sa/2.0/de/> <http://web.resource.org/cc/requires> <http://web.resource.org/cc/Attribution> .
+<http://creativecommons.org/licenses/by-nc-sa/2.0/de/> <http://web.resource.org/cc/prohibits> <http://web.resource.org/cc/CommercialUse> .
+<http://creativecommons.org/licenses/by-nc-sa/2.0/de/> <http://web.resource.org/cc/permits> <http://web.resource.org/cc/DerivativeWorks> .
+<http://creativecommons.org/licenses/by-nc-sa/2.0/de/> <http://web.resource.org/cc/requires> <http://web.resource.org/cc/ShareAlike> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#prefLabel> "M\u00F6bel"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000794> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00001165> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002312> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002313> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002314> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002315> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000870> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002381> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002382> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002383> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002385> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002386> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002387> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002388> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002389> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002390> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002391> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002392> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000992> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002414> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002415> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002416> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002417> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00001034> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00001058> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002457> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00001150> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00001187> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00001161> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002458> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002459> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#definition> "Unter dem Begriff \"M\u00F6bel\" (von lateinisch mobilis = beweglich) fassen wir hier ausschlie\u00DFlich die im Haus benutzten Einrichtungsgegenst\u00E4nde, die zum privaten Wohnen und zur Aufbewahrung der pers\u00F6nlichen Habe entwickelt wurden. Nicht einbezogen sind fest mit dem Raum verbundene Einbauten, die nicht abzumontieren sind, wie gemauerte B\u00E4nke, begehbare Schr\u00E4nke oder Alkoven (Butzen). M\u00F6bel aus dem nichtprivaten Bereich, z. B. aus Werkstatt, Verwaltung, Kirche, Gastronomie usw., werden hier ebenfalls nicht behandelt." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#definition> "In den vorliegenden \"digitalen Thesaurus\" zur Gattung M\u00F6bel wurde, leicht gek\u00FCrzt, folgende Publikation eingearbeitet:" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#definition> "\"M\u00F6bel - Eine Typologie f\u00FCr Museen und Sammlungen\" von Gitta B\u00F6th, Manfred Hartmann, Bernd Kleebaum, Susanne Nickel und Viktor Pr\u00F6stler unter Mitarbeit von Herbert Bald, Barbara Grimm, Hubertus Habel, Dietlinde Peter, Guido Schmid und Leonhard Tomczyk, erschienen im Deutschen Kunstverlag M\u00FCnchen Berlin, 2005, ISBN 3-422-06512-1." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#definition> "Einleitung (gek\u00FCrzt)" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#definition> "Wie nennt man das Objekt? Diese Frage ist stetiger Wegbegleiter vieler auf dem Gebiet der Dokumentation T\u00E4tigen. Sicherlich, zu fast allen Gegenstandsbereichen gibt es Fachliteratur. Die zielt in der Regel aber nicht auf die Begriffsfindung, sondern setzt sie voraus. Infolgedessen variiert selbst auf einem einzelnen Fachgebiet die Terminologie ganz erheblich. Abhilfe schaffen kann hier ein Thesaurus, den DIN 1463 so definiert: \"Ein Thesaurus im Bereich der Information und Dokumentation ist eine geordnete Zusammenstellung von Begriffen und ihren (vorwiegend nat\u00FCrlichsprachigen) Bezeichnungen, die in einem Dokumentationsgebiet zum Indexieren, Speichern und Wiederauffinden dient.\" (DIN 1463-1, Ausgabe 1987-11: Erstellung und Weiterentwicklung von Thesauri; Einsprachige Thesauri, S.2)" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#definition> "Eine Forderung, f\u00FCr die Inventarisierung und Dokumentation von Museumssammlungen Thesauri zu schaffen, um Licht in den Terminologie-Dschungel zu bringen, ist nicht neu; sie wurde beispielsweise im Beschluss der Kultusministerkonferenz (KMK) zur \"Erfassung von Museumsbest\u00E4nden\" vom 27.01.1995 erhoben. Einen Gesamt-Thesaurus aller denkbaren (Museums-)Objekte wird es jedoch nicht geben. Die Arbeit daran f\u00E4nde kein Ende, da das Spektrum aller m\u00F6glichen Sammlungsgegenst\u00E4nde viel zu gro\u00DF ist." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#definition> "Der hier vorgelegte Thesaurus ber\u00FCcksichtigt einen in vielen Museen repr\u00E4sentierten Sammlungsbereich: M\u00F6bel. Er versteht sich als Hilfsmittel bei der Inventarisierung und Dokumentation und soll insbesondere denen Hilfestellung geben, die keine Spezialisten, keine Spezialistinnen im Bereich der M\u00F6belkunde sind. Der Thesaurus richtet sich also vorrangig an interessierte - aber nicht spezialisierte - akademisch ausgebildete Kulturhistoriker und Kulturhistorikerinnen sowie an kulturgeschichtlich engagierte Laien. Eigene Forschungsarbeiten kann und will er nicht ersetzen. Er erfasst die Grundformen der M\u00F6bel im deutschspr. Raum; allerdings sind hier lediglich die zum privaten Leben bestimmten h\u00E4uslichen M\u00F6bel ber\u00FCcksichtigt. M\u00F6bel aus dem nicht-privaten Bereich - zum Beispiel die Vielfalt von Werkstatt- und B\u00FCrom\u00F6beln oder die M\u00F6blierung von Krankenh\u00E4usern, Kirchen und \u00E4hnlichem - bleiben in dieser Publikation unber\u00FCcksichtigt; sie sind einer weiteren Ver\u00F6ffentlichung vorbehalten." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#definition> "Die Grenze zwischen den im priv. Wohnbereich genutzten M\u00F6beln und den \"nicht-privaten\" ist nicht immer eindeutig zu ziehen. Welche Begriffe aufzunehmen waren, haben wir ausgiebig diskutiert....Aufgrund der wesentlich von der Konstruktion her abgeleiteten Bezeichnungen taucht eine Vielzahl landl\u00E4ufig g\u00E4ngiger Begriffe nicht als Deskriptor auf. So haben wir die verbreiteten geografischen, regionalspezifischen, funktionalen, formalen oder stilepochenbezogenen Bez. nicht als Deskriptoren aufgenommen.... Wir haben einen Teil dieser h\u00E4ufig benutzten Bez. mit einem Stern * versehen in den Thesaurus... aufgenommen, um zu verdeutlichen, dass wir diese M\u00F6belbez. nicht einfach nur \"vergessen\" haben, sondern dass sie als Nicht-Deskriptoren in einem an der Konstruktion orientierten Thesaurus nicht verwendet werden d\u00FCrfen." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://purl.org/dc/elements/1.1/identifier> "00000793" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ablage"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000793> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000795> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000831> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://purl.org/dc/elements/1.1/identifier> "00000794" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gestell"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000794> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002284> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000796> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000797> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000798> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002460> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000799> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002286> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000800> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000808> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000809> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002288> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000810> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000811> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002289> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000812> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002290> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000813> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002291> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000826> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002293> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000827> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002462> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000828> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000829> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000830> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#definition> "Gestelle sind Ablagen in unterschiedlichen Konstruktionen und Formen, die sich nach dem jeweiligen Verwendungszweck richten." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#definition> "Geschichte:" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#definition> "Die Grundformen der Gestelle, so das Bord oder der Kleiderrechen, wurden im Sp\u00E4tmittelalter f\u00FCr den Bereich der h\u00E4uslichen Wirtschaft entwickelt, bevor sie in die eigentlichen Wohnbereiche \u00FCbernommen wurden. Die ausgepr\u00E4gte Differenzierung in unterschiedliche Formen fand erst im 19. und 20. Jahrhundert statt." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://purl.org/dc/elements/1.1/identifier> "00000795" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000796> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000796> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blumenbank"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000796> <http://www.w3.org/2004/02/skos/core#altLabel> "Blumenkrippe"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000796> <http://www.w3.org/2004/02/skos/core#altLabel> "Blumentisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000796> <http://www.w3.org/2004/02/skos/core#altLabel> "Jardini\u00E8re"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000796> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000796> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000795> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000796> <http://www.w3.org/2004/02/skos/core#definition> "Die Blumenbank ist ein Gestell mit waagerechter Fl\u00E4che. Die Stellfl\u00E4che kann eckig bis rund sein; sie ist oft mit einer Wandung versehen." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000796> <http://purl.org/dc/elements/1.1/identifier> "00000796" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000796> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000796> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000796> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000796> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000796> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000796> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000797> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000797> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blumenst\u00E4nder"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000797> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000797> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000795> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000797> <http://www.w3.org/2004/02/skos/core#definition> "Der Blumenst\u00E4nder verf\u00FCgt \u00FCber Stellfl\u00E4chen, die auf verschiedenen H\u00F6hen angebracht sind. Sie k\u00F6nnen an einem Pfosten montiert oder stufig sein." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000797> <http://purl.org/dc/elements/1.1/identifier> "00000797" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000797> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000797> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000797> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000797> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000797> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000797> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000798> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bord"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000798> <http://www.w3.org/2004/02/skos/core#altLabel> "B\u00FCcherbord"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000798> <http://www.w3.org/2004/02/skos/core#altLabel> "Konsolbrett"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000798> <http://www.w3.org/2004/02/skos/core#altLabel> "Konsole"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000798> <http://www.w3.org/2004/02/skos/core#altLabel> "Wandboard"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000798> <http://www.w3.org/2004/02/skos/core#altLabel> "Wandbord"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000798> <http://www.w3.org/2004/02/skos/core#altLabel> "Wandbrett"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000798> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000798> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000795> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000798> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002285> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000798> <http://www.w3.org/2004/02/skos/core#definition> "Das Bord ist ein an der Wand zu befestigendes Brett zur Ablage von Gegenst\u00E4nden, das mit einer St\u00FCtzkonstruktion versehen ist." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000798> <http://purl.org/dc/elements/1.1/identifier> "00000798" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000798> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000798> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000798> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000798> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000798> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000798> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000799> <http://www.w3.org/2004/02/skos/core#prefLabel> "CD-St\u00E4nder"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000799> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000799> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000795> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000799> <http://www.w3.org/2004/02/skos/core#definition> "Konstruktionsmerkmal des CD-St\u00E4nders sind die vielen F\u00E4cher zur Aufbewahrung von Compact Discs." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000799> <http://purl.org/dc/elements/1.1/identifier> "00000799" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000799> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000799> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000799> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000799> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000799> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000799> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000800> <http://www.w3.org/2004/02/skos/core#prefLabel> "Garderobe"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000800> <http://www.w3.org/2004/02/skos/core#altLabel> "Kleiderablage"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000800> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000800> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000795> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000800> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002287> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000800> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000801> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000800> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000802> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000800> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000803> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000800> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000804> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000800> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000805> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000800> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000806> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000800> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000807> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000800> <http://www.w3.org/2004/02/skos/core#definition> "Die Garderobe besteht aus einer Aufh\u00E4ngevorrichtung f\u00FCr Oberbekleidung und mindestens einem der folgenden Elemente: Spiegel, Schirm- oder Stockst\u00E4nder, Hutablage, Handschuhablage, Schrank- oder Kommodenelement, Schuhablage. Sie steht entweder frei im Raum oder ist wandfest montiert." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000800> <http://purl.org/dc/elements/1.1/identifier> "00000800" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000800> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000800> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000800> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000800> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000800> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000800> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000801> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hutablage"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000801> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000801> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000800> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000801> <http://www.w3.org/2004/02/skos/core#definition> "Die Hutablage ist ein Bord, dessen waagerechte Ablagefl\u00E4che aus einem luftdurchl\u00E4ssigen Geflecht oder einem Leistenrost besteht." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000801> <http://purl.org/dc/elements/1.1/identifier> "00000801" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000801> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000801> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000801> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000801> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000801> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000801> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000802> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleiderhaken"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000802> <http://www.w3.org/2004/02/skos/core#altLabel> "Garderobenleiste"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000802> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000802> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000800> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000802> <http://www.w3.org/2004/02/skos/core#definition> "Der Kleiderhaken ist ein wandfest montierter Haken zum Aufh\u00E4ngen von Oberbekleidung." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000802> <http://purl.org/dc/elements/1.1/identifier> "00000802" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000802> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000802> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000802> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000802> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000802> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000802> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000803> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleiderrechen"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000803> <http://www.w3.org/2004/02/skos/core#altLabel> "Garderobenleiste"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000803> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000803> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000800> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000803> <http://www.w3.org/2004/02/skos/core#definition> "Der Kleiderrechen ist eine wandfest montierte Hakenleiste zum Aufh\u00E4ngen von Kleidung." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000803> <http://purl.org/dc/elements/1.1/identifier> "00000803" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000803> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000803> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000803> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000803> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000803> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000803> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000804> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleiderst\u00E4nder"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000804> <http://www.w3.org/2004/02/skos/core#altLabel> "Garderobenst\u00E4nder"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000804> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000804> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000800> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000804> <http://www.w3.org/2004/02/skos/core#definition> "Der Kleiderst\u00E4nder ist eine freistehende Konstruktion mit Aufh\u00E4ngevorrichtung." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000804> <http://purl.org/dc/elements/1.1/identifier> "00000804" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000804> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000804> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000804> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000804> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000804> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000804> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000805> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000805> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schirmst\u00E4nder"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000805> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000805> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000800> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000805> <http://www.w3.org/2004/02/skos/core#definition> "Der Beh\u00E4lter zum Abstellen von Schirmen ist oft mit durchbrochener Wandung zur Bel\u00FCftung nasser Regenschirme konstruiert; in der Regel hat er im Fu\u00DF ein Beh\u00E4ltnis f\u00FCr das abtropfende Wasser." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000805> <http://purl.org/dc/elements/1.1/identifier> "00000805" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000805> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000805> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000805> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000805> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000805> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000805> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000806> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000806> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schuhst\u00E4nder"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000806> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000806> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000800> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000806> <http://www.w3.org/2004/02/skos/core#definition> "Der Schuhst\u00E4nder ist ein Gestell mit einer oder mehreren Stellreihe(n) aus parallel gef\u00FChrten Holzst\u00E4ben." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000806> <http://purl.org/dc/elements/1.1/identifier> "00000806" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000806> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000806> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000806> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000806> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000806> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000806> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000807> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000807> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stockst\u00E4nder"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000807> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000807> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000800> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000807> <http://www.w3.org/2004/02/skos/core#definition> "Der Stockst\u00E4nder ist ein Gestell mit Fu\u00DFplatte, Streben und gelochter Platte zum Abstellen von Spazierst\u00F6cken." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000807> <http://purl.org/dc/elements/1.1/identifier> "00000807" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000807> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000807> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000807> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000807> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000807> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000807> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000808> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gestell f\u00FCr Holzteller"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000808> <http://www.w3.org/2004/02/skos/core#altLabel> "Reck f\u00FCr Holzteller"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000808> <http://www.w3.org/2004/02/skos/core#altLabel> "Schinkentellerhalter"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000808> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000808> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000795> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000808> <http://www.w3.org/2004/02/skos/core#definition> "Das Gestell f\u00FCr Holzteller besteht aus Leiste oder Brett, in welche(s) paarweise Holzst\u00E4be \u00FCbereinander eingelassen sind, auf denen Holzteller abgelegt werden k\u00F6nnen. Zuweilen ist ein L\u00F6ffelbrett integriert." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000808> <http://purl.org/dc/elements/1.1/identifier> "00000808" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000808> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000808> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000808> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000808> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000808> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000808> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000809> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000809> <http://www.w3.org/2004/02/skos/core#prefLabel> "Globusst\u00E4nder"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000809> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000809> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000795> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000809> <http://www.w3.org/2004/02/skos/core#definition> "Der Globusst\u00E4nder ist ein Gestell zur Aufnahme eines Globusses." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000809> <http://purl.org/dc/elements/1.1/identifier> "00000809" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000809> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000809> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000809> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000809> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000809> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000809> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000810> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kerzenst\u00E4nder"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000810> <http://www.w3.org/2004/02/skos/core#altLabel> "Kandelaber"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000810> <http://www.w3.org/2004/02/skos/core#altLabel> "Lichtst\u00E4nder"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000810> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000810> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000795> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000810> <http://www.w3.org/2004/02/skos/core#definition> "Der Kerzenst\u00E4nder ist ein schmales hohes Gestell mit einem Teller, auf dem gro\u00DFe Kerzen aufgestellt werden." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000810> <http://purl.org/dc/elements/1.1/identifier> "00000810" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000810> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000810> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000810> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000810> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000810> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000810> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000811> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lesepult"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000811> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000811> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000795> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000811> <http://www.w3.org/2004/02/skos/core#definition> "Haupts\u00E4chliches Konstruktionsmerkmal des Lesepultes ist die schr\u00E4g gestellte Ablagefl\u00E4che f\u00FCr das Buch, dessen Abrutschen durch eine Leiste verhindert wird." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000811> <http://purl.org/dc/elements/1.1/identifier> "00000811" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000811> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000811> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000811> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000811> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000811> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000811> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000812> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000812> <http://www.w3.org/2004/02/skos/core#prefLabel> "Notenst\u00E4nder"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000812> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000812> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000795> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000812> <http://www.w3.org/2004/02/skos/core#definition> "Der Notenst\u00E4nder hat eine r\u00FCckw\u00E4rtige St\u00FCtzkonstruktion, die fl\u00E4chig oder durchbrochen ist. Eine daran angebrachte Leiste dient dem hochkantigen Aufstellen der Notenbl\u00E4tter, die zus\u00E4tzlich von Haltern am oberen Teil der St\u00FCtzkonstruktion fixiert werden. Der Notenst\u00E4nder kann fest, zerlegbar oder klappbar konstruiert sein." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000812> <http://purl.org/dc/elements/1.1/identifier> "00000812" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000812> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000812> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000812> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000812> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000812> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000812> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://www.w3.org/2004/02/skos/core#prefLabel> "Regal"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://www.w3.org/2004/02/skos/core#altLabel> "Desserte"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://www.w3.org/2004/02/skos/core#altLabel> "Servante"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000795> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000814> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000815> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000816> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000817> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000820> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000822> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000823> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000825> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://www.w3.org/2004/02/skos/core#definition> "Das Regal ist ein vorn offenes Gestell mit mehreren B\u00F6den. Es kann stehen oder h\u00E4ngen und ist nach mindestens einer Seite offen." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://www.w3.org/2004/02/skos/core#definition> "Konstruktiv sind folgende Haupttypen zu unterscheiden:" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://www.w3.org/2004/02/skos/core#definition> "1) Pfostenregal" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://www.w3.org/2004/02/skos/core#definition> "2) Seitenteil- bzw. Steckregal" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://www.w3.org/2004/02/skos/core#definition> "3) Kragarmregal" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://www.w3.org/2004/02/skos/core#definition> "Regale, die - besonders im Klassizismus und im Biedermeier - f\u00FCr reine Repr\u00E4sentationszwecke gebaut wurden, sind unter den Bezeichnungen \"Servante\" oder \"Desserte\" bekannt." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://purl.org/dc/elements/1.1/identifier> "00000813" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000813> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000814> <http://www.w3.org/2004/02/skos/core#prefLabel> "Drehregal"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000814> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000814> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000813> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000814> <http://www.w3.org/2004/02/skos/core#definition> "Das Drehregal ist ein auf der Mittelachse drehbar gelagertes Regal." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000814> <http://purl.org/dc/elements/1.1/identifier> "00000814" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000814> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000814> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000814> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000814> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000814> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000814> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000815> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000815> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eckregal"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000815> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000815> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000813> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000815> <http://www.w3.org/2004/02/skos/core#definition> "Das Eckregal dient zur Platzierung in Ecksituationen. Die R\u00FCckseiten stehen deshalb ann\u00E4hernd rechtwinklig zueinander." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000815> <http://purl.org/dc/elements/1.1/identifier> "00000815" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000815> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000815> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000815> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000815> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000815> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000815> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000816> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000816> <http://www.w3.org/2004/02/skos/core#prefLabel> "Etag\u00E8re"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000816> <http://www.w3.org/2004/02/skos/core#altLabel> "Aufw\u00E4rter"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000816> <http://www.w3.org/2004/02/skos/core#altLabel> "Whatnot"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000816> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000816> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000813> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000816> <http://www.w3.org/2004/02/skos/core#definition> "Die Etag\u00E8re ist ein allseitig offenes Regal mit mindestens drei \u00FCbereinander liegenden Stellfl\u00E4chen, die entweder von einer Mittels\u00E4ule oder von meist zierlich ausgestalteten Eckpfosten getragen werden. Unter dem unteren Regal kann eine Schublade angebracht sein." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000816> <http://www.w3.org/2004/02/skos/core#definition> "Nicht zu verwechseln ist sie mit der Etag\u00E8re, die als Serviergeschirr oder Tafelaufsatz dient." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000816> <http://purl.org/dc/elements/1.1/identifier> "00000816" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000816> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000816> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000816> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000816> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000816> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000816> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000817> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flaschenregal"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000817> <http://www.w3.org/2004/02/skos/core#altLabel> "Weinregal"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000817> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000817> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000813> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000817> <http://www.w3.org/2004/02/skos/core#definition> "Beim Flaschenregal sind die B\u00F6den so konstruiert, dass auf ihnen liegend Flaschen gelagert werden k\u00F6nnen." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000817> <http://purl.org/dc/elements/1.1/identifier> "00000817" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000817> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000817> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000817> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000817> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000817> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000817> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000820> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000820> <http://www.w3.org/2004/02/skos/core#prefLabel> "Raumteiler"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000820> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000820> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000813> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000820> <http://www.w3.org/2004/02/skos/core#definition> "Der Raumteiler ist ein freistehendes, nach den beiden L\u00E4ngsseiten zug\u00E4ngliches Regal, das durch seine Konstruktionsmerkmale f\u00FCr eine beidseitige Nutzung ausgelegt ist. Diese k\u00F6nnen Zier- oder Bedienungselemente, zum Beispiel Schubladen, sein." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000820> <http://purl.org/dc/elements/1.1/identifier> "00000820" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000820> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000820> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000820> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000820> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000820> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000820> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000822> <http://www.w3.org/2004/02/skos/core#prefLabel> "Servierwagen"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000822> <http://www.w3.org/2004/02/skos/core#altLabel> "Dinette"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000822> <http://www.w3.org/2004/02/skos/core#altLabel> "Teewagen"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000822> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000822> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000813> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000822> <http://www.w3.org/2004/02/skos/core#definition> "Der Servierwagen, ein fahrbares, maximal tischhohes, allseitig offenes Regal mit mindestens zwei B\u00F6den, von denen der obere oft als Tablett abnehmbar ist. Zur platzsparenden Aufbewahrung kann der Servierwagen klappbar sein. Moderne Exemplare werden h\u00E4ufig nach einer Produktbezeichnung \"Dinette\" genannt." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000822> <http://purl.org/dc/elements/1.1/identifier> "00000822" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000822> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000822> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000822> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000822> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000822> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000822> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000823> <http://www.w3.org/2004/02/skos/core#prefLabel> "Setzkasten"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000823> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000823> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000813> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000823> <http://www.w3.org/2004/02/skos/core#definition> "Der aus dem Druckerhandwerk in den h\u00E4uslichen Wohnbereich \u00FCbernommene Setzkasten ist ein Regal geringer Tiefe mit vielen kleinen F\u00E4chern." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000823> <http://purl.org/dc/elements/1.1/identifier> "00000823" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000823> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000823> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000823> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000823> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000823> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000823> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000825> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000825> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tellerbord"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000825> <http://www.w3.org/2004/02/skos/core#altLabel> "Sch\u00FCsselbank"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000825> <http://www.w3.org/2004/02/skos/core#altLabel> "Sch\u00FCsselr\u00E4hm"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000825> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000825> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000813> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000825> <http://www.w3.org/2004/02/skos/core#definition> "Das Tellerbord ist ein Regal zur stehenden Aufbewahrung von Tellern oder Sch\u00FCsseln. Die Fachb\u00F6den haben geringe Tiefe, die frontalen Halteleisten st\u00FCtzen das Geschirr. Bisweilen finden sich im unteren Bereich des Tellerbords Schubladen oder Haken." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000825> <http://purl.org/dc/elements/1.1/identifier> "00000825" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000825> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000825> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000825> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000825> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000825> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000825> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000826> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sockel"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000826> <http://www.w3.org/2004/02/skos/core#altLabel> "Postament"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000826> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000826> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000795> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000826> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002461> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000826> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002292> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000826> <http://www.w3.org/2004/02/skos/core#definition> "Der Sockel besteht aus einem geschlossenen Korpus, dessen Oberseite zur Ablage dient." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000826> <http://purl.org/dc/elements/1.1/identifier> "00000826" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000826> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000826> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000826> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000826> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000826> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000826> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000827> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stummer Diener"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000827> <http://www.w3.org/2004/02/skos/core#altLabel> "Herrendiener"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000827> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000827> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000795> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000827> <http://www.w3.org/2004/02/skos/core#definition> "Unter einem Stummen Diener versteht man ein Gestell, das Hosenhalter und Kleiderb\u00FCgel kombiniert. Er kann wandfest montiert sein oder frei stehen." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000827> <http://purl.org/dc/elements/1.1/identifier> "00000827" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000827> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000827> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000827> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000827> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000827> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000827> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000828> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waschgestell"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000828> <http://www.w3.org/2004/02/skos/core#altLabel> "Lavabo"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000828> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000828> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000795> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000828> <http://www.w3.org/2004/02/skos/core#definition> "Das Waschgestell ist ein Gesell zur Aufnahme von herausnehmbarem Waschgeschirr." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000828> <http://purl.org/dc/elements/1.1/identifier> "00000828" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000828> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000828> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000828> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000828> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000828> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000828> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000829> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zeitschriftenwandablage"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000829> <http://www.w3.org/2004/02/skos/core#altLabel> "Zeitungswandablage"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000829> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000829> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000795> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000829> <http://www.w3.org/2004/02/skos/core#definition> "Die Zeitschriftenwandablage ist ein wandfest montiertes Gestell mit einer Ablagefl\u00E4che oder mehreren \u00FCbereinander angebrachten, spitzwinklig schr\u00E4g nach oben ausgestellten Ablagefl\u00E4chen." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000829> <http://purl.org/dc/elements/1.1/identifier> "00000829" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000829> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000829> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000829> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000829> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000829> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000829> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000830> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000830> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zeitungsst\u00E4nder"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000830> <http://www.w3.org/2004/02/skos/core#altLabel> "Zeitschriftenst\u00E4nder"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000830> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000830> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000795> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000830> <http://www.w3.org/2004/02/skos/core#definition> "Der Zeitungsst\u00E4nder ist ein Gestell, dessen u- oder v-f\u00F6rmige Ablagefl\u00E4chen aus Brett, Lattenrost oder Geflecht bestehen k\u00F6nnen." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000830> <http://purl.org/dc/elements/1.1/identifier> "00000830" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000830> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000830> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000830> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000830> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000830> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000830> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000794> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002463> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002464> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000832> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002294> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002295> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002296> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002297> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000836> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000838> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002298> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000841> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002299> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000843> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002300> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002301> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002302> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002303> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000847> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000848> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002304> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002305> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000851> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002306> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000853> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000854> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002307> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000855> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002308> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000856> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002309> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000857> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000861> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002310> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000863> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002311> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#definition> "Der Tisch besteht aus einer horizontalen Platte, dem sogenannten Blatt, das von einem oder mehreren Tragelementen gehalten wird. Die H\u00F6he variiert stil- und gebrauchsabh\u00E4ngig. Die Konstruktion von Tischen aus Kunststoffen, Keramik, Glas, Geflecht, Metallen, papier/Pappe und/oder Textil differiert zuweilen; diese Tische orientieren sich jedoch in der Regel an der tradierten Tisch-Form." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#definition> "Geschichte:" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#definition> "Schon seit der Antike ist der Tisch entweder als luxuri\u00F6ser Repr\u00E4sentationsgegenstand oder als schlichtes Gebrauchsobjekt bekannt." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#definition> "Die im Fr\u00FChmittelalter und bis in die Renaissance hinein am h\u00E4ufigsten verbreitete Tischform war der Tafeltisch. Er wurde bei Bedarf auf- und abgebaut und bestand aus zwei B\u00F6cken, \u00FCber die lose Bohlen oder Bretter gelegt wurden. Er war, wie man auf zeitgen\u00F6ssischen Bildern sehen kann, mit einem gro\u00DFen Tischtuch bedeckt, das gleichzeitig als Serviette diente." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#definition> "Der markante Kastentisch entwickelte sich in der Sp\u00E4tgotik; die italienische Renaissance brachte den auf einer meist s\u00E4ulenartigen Mittelst\u00FCtze ruhenden Rundtisch hervor." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#definition> "Im 15. Jahrhundert entwickelte sich der Wangentisch. Im 16. Jahrhundert kamen verst\u00E4rkt Zargentische in Gebrauch, deren Beine im s\u00FCddeutschen Raum ein aus Italien \u00FCbernommenes kantiges Profil weiweisen, in Norddeutschland hingegen die aus England stammende, aus Holland eingef\u00FChrte Balusterform." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://www.w3.org/2004/02/skos/core#definition> "Im 17. und 18. Jahrhundert waren neben dem schweren ausziehbaren Esstisch viele weitere, oftmals sehr zierliche Tischformen verbreitet. Neue Grundformen wurden nicht mehr entwickelt, sondern bestehende dem jeweils herrschenden Geschmack angepasst." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://purl.org/dc/elements/1.1/identifier> "00000831" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000831> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000832> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bocktisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000832> <http://www.w3.org/2004/02/skos/core#altLabel> "Schragentisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000832> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000832> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000831> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000832> <http://www.w3.org/2004/02/skos/core#definition> "Der Unterbau, bestehend aus mindestens zwei B\u00F6cken, die durch einen L\u00E4ngssteg miteinander verbunden sind, gibt diesem Tisch den Namen. Es gibt drei verschiedene Bockformen:" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000832> <http://www.w3.org/2004/02/skos/core#definition> "1) Zwei senkrecht stehende Beine sind unten in eine Kufe und oben in die Br\u00FCcke, eine Art Kopfleiste, eingezapft." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000832> <http://www.w3.org/2004/02/skos/core#definition> "2) Zwei aus Stabilit\u00E4tsgr\u00FCnden nach au\u00DFen geneigte Beine sind oben in eine Br\u00FCcke eingezapft und unten mit einem Quersteg verbunden." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000832> <http://www.w3.org/2004/02/skos/core#definition> "3) Die zwei Beinpaare sind jeweils gekreuzt." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000832> <http://purl.org/dc/elements/1.1/identifier> "00000832" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000832> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000832> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000832> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000832> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000832> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000832> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000836> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kastentisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000836> <http://www.w3.org/2004/02/skos/core#altLabel> "Rh\u00F6ntisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000836> <http://www.w3.org/2004/02/skos/core#altLabel> "Trogtisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000836> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000836> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000831> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000836> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000837> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000836> <http://www.w3.org/2004/02/skos/core#definition> "Der Kastentisch besteht aus Gestell, Kasten und Tischplatte. Meistens ist der Kasten fest mit dem Untergestell verbunden. Die Tischplatte ist beweglich: Sie kann verschoben oder aufgeklappt werden. Bisweilen sind unter dem Kasten noch zus\u00E4tzliche Schubladen angebracht." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000836> <http://purl.org/dc/elements/1.1/identifier> "00000836" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000836> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000836> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000836> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000836> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000836> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000836> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000837> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tischbett"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000837> <http://www.w3.org/2004/02/skos/core#altLabel> "Table Bed"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000837> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000837> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000836> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000837> <http://www.w3.org/2004/02/skos/core#definition> "Die Tischplatte des Tischbettes kann weggeklappt werden. Der mit L\u00FCftungsschlitzen versehene Kasten ist als Bett benutzbar." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000837> <http://purl.org/dc/elements/1.1/identifier> "00000837" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000837> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000837> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000837> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000837> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000837> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000837> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000838> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000838> <http://www.w3.org/2004/02/skos/core#prefLabel> "Klapptisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000838> <http://www.w3.org/2004/02/skos/core#altLabel> "Gateleg-table"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000838> <http://www.w3.org/2004/02/skos/core#altLabel> "Torbeintisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000838> <http://www.w3.org/2004/02/skos/core#altLabel> "Tripod-table"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000838> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000838> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000831> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000838> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000839> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000838> <http://www.w3.org/2004/02/skos/core#definition> "Das grundlegende Konstruktionsmerkmal des Klapptisches ist der Klappmechanismus, mit dessen Hilfe die Gestalt des Tisches ver\u00E4ndert wird. Das hei\u00DFt, dass entweder die Tischfl\u00E4che vergr\u00F6\u00DFert bzw. verkleinert oder der ganze Tisch zur besseren Aufbewahrung zusammengeklappt wird." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000838> <http://purl.org/dc/elements/1.1/identifier> "00000838" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000838> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000838> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000838> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000838> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000838> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000838> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000839> <http://www.w3.org/2004/02/skos/core#prefLabel> "Drehklapptisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000839> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000839> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000838> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000839> <http://www.w3.org/2004/02/skos/core#definition> "Bei dem Drehklapptisch liegen die Klappen nach entsprechender Plattendrehung unmittelbar auf dem Zargenkranz auf, das hei\u00DFt, das Tischgestell selbst \u00FCbernimmt die St\u00FCtzung der Klappen." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000839> <http://purl.org/dc/elements/1.1/identifier> "00000839" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000839> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000839> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000839> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000839> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000839> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000839> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000841> <http://www.w3.org/2004/02/skos/core#prefLabel> "N\u00E4htisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000841> <http://www.w3.org/2004/02/skos/core#altLabel> "Handarbeitstisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000841> <http://www.w3.org/2004/02/skos/core#altLabel> "N\u00E4hk\u00E4stchen"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000841> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000841> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000831> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000841> <http://www.w3.org/2004/02/skos/core#definition> "Der N\u00E4htisch ist ausgestattet mit Kasten und/oder Schublade, in der Regel feinf\u00E4cherig und der Aufbewahrung von Handarbeitsutensilien dienend." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000841> <http://purl.org/dc/elements/1.1/identifier> "00000841" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000841> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000841> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000841> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000841> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000841> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000841> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000843> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pfostentisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000843> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000843> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000831> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000843> <http://www.w3.org/2004/02/skos/core#definition> "Der Pfostentisch besteht aus einer horizontalen, von drei oder mehreren Beinen getragenen Platte. Er hat keine Zarge." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000843> <http://purl.org/dc/elements/1.1/identifier> "00000843" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000843> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000843> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000843> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000843> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000843> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000843> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000847> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000847> <http://www.w3.org/2004/02/skos/core#prefLabel> "Satztisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000847> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000847> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000831> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000847> <http://www.w3.org/2004/02/skos/core#definition> "Der Satztisch ist Teil eines in sich verschachtelten mehrteiligen Tischsets, das untereinandergestellt werden kann." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000847> <http://purl.org/dc/elements/1.1/identifier> "00000847" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000847> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000847> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000847> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000847> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000847> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000847> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000848> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000848> <http://www.w3.org/2004/02/skos/core#prefLabel> "S\u00E4ulentisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000848> <http://www.w3.org/2004/02/skos/core#altLabel> "Balustertisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000848> <http://www.w3.org/2004/02/skos/core#altLabel> "Gu\u00E9ridon"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000848> <http://www.w3.org/2004/02/skos/core#altLabel> "Gu\u00E9ridonette"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000848> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000848> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000831> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000848> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000849> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000848> <http://www.w3.org/2004/02/skos/core#definition> "Der S\u00E4ulentisch besteht aus der Platte und der/den sie tragenden S\u00E4ule(n). Viele S\u00E4ulentische haben aus Stabilit\u00E4tsgr\u00FCnden einen Zargenkranz. Kleine S\u00E4ulentische werden als \"Gu\u00E9ridon\" oder \"Gu\u00E9ridonette\" bezeichnet." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000848> <http://purl.org/dc/elements/1.1/identifier> "00000848" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000848> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000848> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000848> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000848> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000848> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000848> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000849> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trommeltisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000849> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000849> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000848> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000849> <http://www.w3.org/2004/02/skos/core#definition> "Der Trommeltisch ist ein S\u00E4ulentisch mit runder Platte. In den darunter befindlichen Zargenkranz sind Schubladen eingelassen." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000849> <http://purl.org/dc/elements/1.1/identifier> "00000849" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000849> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000849> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000849> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000849> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000849> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000849> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000851> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spieltisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000851> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000851> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000831> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000851> <http://www.w3.org/2004/02/skos/core#definition> "Der Spieltisch zeichnet sich durch ein oder mehrere Spielfeld(er) und gegebenenfalls durch zus\u00E4tzliche Vorrichtungen zum Spielen wie Geldsch\u00E4lchen, Kartenhalter etc. aus." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000851> <http://purl.org/dc/elements/1.1/identifier> "00000851" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000851> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000851> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000851> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000851> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000851> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000851> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000853> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taschenleerer"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000853> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000853> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000831> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000853> <http://www.w3.org/2004/02/skos/core#definition> "Charakteristisch f\u00FCr den Taschenleerer ist die Tischplatte, die mit ihrer hochkant gestellten Umrandung wie ein Tablett aussieht." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000853> <http://purl.org/dc/elements/1.1/identifier> "00000853" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000853> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000853> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000853> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000853> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000853> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000853> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000854> <http://www.w3.org/2004/02/skos/core#prefLabel> "Teetisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000854> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000854> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000831> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000854> <http://www.w3.org/2004/02/skos/core#definition> "Das charakteristische Merkmal des Teetisches ist eine muldenf\u00F6rmige, meist aus Fayence bestehende Tischplatte, die von umlaufenden Zierleisten eingefasst ist." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000854> <http://purl.org/dc/elements/1.1/identifier> "00000854" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000854> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000854> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000854> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000854> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000854> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000854> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000855> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000855> <http://www.w3.org/2004/02/skos/core#prefLabel> "Toilettentisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000855> <http://www.w3.org/2004/02/skos/core#altLabel> "Ankleidetisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000855> <http://www.w3.org/2004/02/skos/core#altLabel> "Frisiertisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000855> <http://www.w3.org/2004/02/skos/core#altLabel> "Poudreuse"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000855> <http://www.w3.org/2004/02/skos/core#altLabel> "Rasiertisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000855> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000855> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000831> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000855> <http://www.w3.org/2004/02/skos/core#definition> "Der Toilettentisch ist ein tischartiges M\u00F6bel mit integriertem Spiegel und zumeist mit Schubladen. Der Spiegel ist entweder fest montiert oder er kann im Tisch versenkt werden." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000855> <http://purl.org/dc/elements/1.1/identifier> "00000855" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000855> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000855> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000855> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000855> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000855> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000855> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000856> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000856> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verwandlungstisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000856> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000856> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000831> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000856> <http://www.w3.org/2004/02/skos/core#definition> "Der Verwandlungstisch ist ein mechanisches M\u00F6bel. Er kann dank seiner eingebauten Mechanismen vom normalen Tisch in einen Spieltisch oder Schreibtisch oder auch zum Lesepult verwandelt werden." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000856> <http://purl.org/dc/elements/1.1/identifier> "00000856" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000856> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000856> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000856> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000856> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000856> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000856> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000857> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000857> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wandtisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000857> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000857> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000831> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000857> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000858> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000857> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000859> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000857> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000860> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000857> <http://www.w3.org/2004/02/skos/core#definition> "Der Wandtisch ist f\u00FCr eine wandb\u00FCndige Aufstellung konzipiert. Die R\u00FCckseite hat keine Schaufunktion und ist daher zumeist schlicht gehalten." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000857> <http://purl.org/dc/elements/1.1/identifier> "00000857" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000857> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000857> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000857> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000857> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000857> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000857> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000858> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ecktisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000858> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000858> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000857> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000858> <http://www.w3.org/2004/02/skos/core#definition> "Der Ecktisch ist auf Grund seiner Konstruktion - mit drei oder mehr Beinen, einer dreieckig ausgeformten R\u00FCckseite und einer dekorativ gestalteten Vorder- bzw. Schauseite - zur Aufstellung in einer Raumecke vorgesehen." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000858> <http://purl.org/dc/elements/1.1/identifier> "00000858" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000858> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000858> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000858> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000858> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000858> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000858> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000859> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000859> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konsoltisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000859> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000859> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000857> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000859> <http://www.w3.org/2004/02/skos/core#definition> "Der Konsoltisch ist ein Halbtisch, der hinten mit der Wand verankert und vorne von Beinen abgest\u00FCtzt wird." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000859> <http://purl.org/dc/elements/1.1/identifier> "00000859" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000859> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000859> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000859> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000859> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000859> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000859> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000860> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wandklapptisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000860> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000860> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000857> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000860> <http://www.w3.org/2004/02/skos/core#definition> "Der Wandklapptisch besteht aus einem an der Wand befestigten Brett, das mit Hilfe von Scharnieren zu klappen ist. In ausgeklapptem Zustand wird es durch einen St\u00FCtzmechanismus gehalten." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000860> <http://purl.org/dc/elements/1.1/identifier> "00000860" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000860> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000860> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000860> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000860> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000860> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000860> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000861> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wangentisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000861> <http://www.w3.org/2004/02/skos/core#altLabel> "Stirnwandtisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000861> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000861> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000831> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000861> <http://www.w3.org/2004/02/skos/core#definition> "Das tragende Untergestell f\u00FCr die Tischplatte bilden beim Wangentisch zwei aufrecht stehende Brettfl\u00E4chen, die Wangen, die durch einen Quersteg miteinander verbunden sind." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000861> <http://purl.org/dc/elements/1.1/identifier> "00000861" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000861> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000861> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000861> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000861> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000861> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000861> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000863> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zargentisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000863> <http://www.w3.org/2004/02/skos/core#altLabel> "Stollentisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000863> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000863> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000831> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000863> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000864> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000863> <http://www.w3.org/2004/02/skos/core#definition> "Das Untergestell des Zargentisches wird aus vier Beinen und einem umlaufenden Zargenkranz gebildet. Die Zargen k\u00F6nnen in die Beine eingezapft sein oder sie sind von innen an dem Zargenkranz befestigt." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000863> <http://purl.org/dc/elements/1.1/identifier> "00000863" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000863> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000863> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000863> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000863> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000863> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000863> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000864> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ausziehtisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000864> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000864> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000863> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000864> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000865> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000864> <http://www.w3.org/2004/02/skos/core#definition> "Beim Ausziehtisch wird die Tischfl\u00E4che durch Zug- und/oder andere Mechanismen vergr\u00F6\u00DFert." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000864> <http://purl.org/dc/elements/1.1/identifier> "00000864" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000864> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000864> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000864> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000864> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000864> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000864> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000865> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000865> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kulissentisch"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000865> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000865> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000864> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000865> <http://www.w3.org/2004/02/skos/core#definition> "Der Kulissentisch ist auf ein Mehrfaches - bei einigen Exemplaren bis auf das Achtfache - seiner Tischgr\u00F6\u00DFe verl\u00E4ngerbar. Beim Vergr\u00F6\u00DFern werden die sogenannten Kulissen teleskopartig auseinander gezogen. Die dabei entstehenden L\u00FCcken werden mit einzelnen Tischplatten ausgef\u00FCllt, die in der Regel durch Zapfen verbunden sind." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000865> <http://purl.org/dc/elements/1.1/identifier> "00000865" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000865> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000865> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000865> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000865> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000865> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000865> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000870> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000870> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beh\u00E4ltnism\u00F6bel"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000870> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000870> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000793> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000870> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000871> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000870> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000872> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000870> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000883> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000870> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002368> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000870> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000963> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000870> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000964> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000870> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002380> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000870> <http://purl.org/dc/elements/1.1/identifier> "00000870" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000870> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000870> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000870> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000870> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000870> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000870> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000871> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flaschenk\u00FChler"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000871> <http://www.w3.org/2004/02/skos/core#altLabel> "Cellaret"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000871> <http://www.w3.org/2004/02/skos/core#altLabel> "Flaschenschrank"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000871> <http://www.w3.org/2004/02/skos/core#altLabel> "Weink\u00FChler"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000871> <http://www.w3.org/2004/02/skos/core#altLabel> "Wine Cooler"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000871> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000871> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000870> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000871> <http://www.w3.org/2004/02/skos/core#definition> "Haupts\u00E4chliches Merkmal des Flaschenk\u00FChlers ist sein mit Blech ausgeschlagener Kasten, in dem Flaschen temperiert werden. Der Kasten kann in F\u00E4cher eingeteilt sein." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000871> <http://purl.org/dc/elements/1.1/identifier> "00000871" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000871> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000871> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000871> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000871> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000871> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000871> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kommode"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://www.w3.org/2004/02/skos/core#altLabel> "Chiffoni\u00E9re"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000870> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000873> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000874> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000876> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002316> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000878> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002317> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002318> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000880> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002319> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000881> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002320> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://www.w3.org/2004/02/skos/core#definition> "Die Kommode ist ein Beh\u00E4ltnism\u00F6bel mit zwei oder mehreren Schubladen." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://www.w3.org/2004/02/skos/core#definition> "Geschichte:" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://www.w3.org/2004/02/skos/core#definition> "Als M\u00F6bel eigenen Typs wurde die Kommode in Frankreich im 17. Jahrhundert entwickelt. In Deutschland ist sie nicht vor den 1720er Jahren nachweisbar; sie \u00FCbernahm zahlreiche Funktionen der Truhe. Ihre Funktion als Aufbewahrungsm\u00F6bel f\u00FCr Kleidung erhellt sich aus der franz\u00F6sischen Bezeichnung Chiffonni\u00E8re (= Kommode, auch: Lumpensammlerin; chiffon = Stofffetzen, Lumpen), die sich dem Sinn verwandt auch im aus dem Franz\u00F6sischen \u00FCbernommenen Wort \"Commode\" f\u00FCr die bequeme, also \"kommode\" M\u00F6glichkeit zur Ablage von Kleidungsst\u00FCcken wiederfindet." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://purl.org/dc/elements/1.1/identifier> "00000872" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000872> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000873> <http://www.w3.org/2004/02/skos/core#prefLabel> "Demilune"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000873> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000873> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000872> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000873> <http://www.w3.org/2004/02/skos/core#definition> "Bei der Demilune handelt es sich um eine halbkreisf\u00F6rmige Kommode." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000873> <http://purl.org/dc/elements/1.1/identifier> "00000873" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000873> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000873> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000873> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000873> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000873> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000873> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000874> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000874> <http://www.w3.org/2004/02/skos/core#prefLabel> "Doppelkommode"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000874> <http://www.w3.org/2004/02/skos/core#altLabel> "Aufsatzkommode"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000874> <http://www.w3.org/2004/02/skos/core#altLabel> "Tallboy"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000874> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000874> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000872> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000874> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000875> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000874> <http://www.w3.org/2004/02/skos/core#definition> "Die Doppelkommode ist zweiteilig gegliedert. Der obere Aufsatz, der zumeist zur\u00FCckspringt, ist wie auch der untere Teil mit Schubladen versehen." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000874> <http://purl.org/dc/elements/1.1/identifier> "00000874" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000874> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000874> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000874> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000874> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000874> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000874> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000875> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000875> <http://www.w3.org/2004/02/skos/core#prefLabel> "Highboy"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000875> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000875> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000874> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000875> <http://www.w3.org/2004/02/skos/core#definition> "Der kommodenartige Unterbau des Highboy, einem aus Amerika kommenden M\u00F6beltyp, hat vier hohe Beine." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000875> <http://purl.org/dc/elements/1.1/identifier> "00000875" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000875> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000875> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000875> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000875> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000875> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000875> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000876> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000876> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eckkommode"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000876> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .

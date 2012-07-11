@@ -1,0 +1,9 @@
+do{ my $x = {
+       'build_requires' => {},
+       'conflicts' => {},
+       'requires' => {},
+       'recommends' => {
+                         'RDF::Trine' => '0.130'
+                       }
+     };
+$x; }

@@ -1,0 +1,100 @@
+<http://www.museumsvokabular.de/museumvok/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://web.resource.org/cc/Work> .
+<http://www.museumsvokabular.de/museumvok/> <http://web.resource.org/cc/license> <http://creativecommons.org/licenses/by-nc-sa/2.0/de/> .
+<http://www.museumsvokabular.de/museumvok/> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .
+<http://creativecommons.org/licenses/by-nc-sa/2.0/de/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://web.resource.org/cc/License> .
+<http://creativecommons.org/licenses/by-nc-sa/2.0/de/> <http://web.resource.org/cc/permits> <http://web.resource.org/cc/Reproduction> .
+<http://creativecommons.org/licenses/by-nc-sa/2.0/de/> <http://web.resource.org/cc/permits> <http://web.resource.org/cc/Distribution> .
+<http://creativecommons.org/licenses/by-nc-sa/2.0/de/> <http://web.resource.org/cc/requires> <http://web.resource.org/cc/Notice> .
+<http://creativecommons.org/licenses/by-nc-sa/2.0/de/> <http://web.resource.org/cc/requires> <http://web.resource.org/cc/Attribution> .
+<http://creativecommons.org/licenses/by-nc-sa/2.0/de/> <http://web.resource.org/cc/prohibits> <http://web.resource.org/cc/CommercialUse> .
+<http://creativecommons.org/licenses/by-nc-sa/2.0/de/> <http://web.resource.org/cc/permits> <http://web.resource.org/cc/DerivativeWorks> .
+<http://creativecommons.org/licenses/by-nc-sa/2.0/de/> <http://web.resource.org/cc/requires> <http://web.resource.org/cc/ShareAlike> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#prefLabel> "M\u00F6bel"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000794> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00001165> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002312> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002313> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002314> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002315> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000870> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002381> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002382> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002383> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002385> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002386> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002387> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002388> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002389> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002390> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002391> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002392> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000992> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002414> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002415> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002416> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002417> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00001034> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00001058> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002457> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00001150> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00001187> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00001161> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002458> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002459> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#definition> "Unter dem Begriff \"M\u00F6bel\" (von lateinisch mobilis = beweglich) fassen wir hier ausschlie\u00DFlich die im Haus benutzten Einrichtungsgegenst\u00E4nde, die zum privaten Wohnen und zur Aufbewahrung der pers\u00F6nlichen Habe entwickelt wurden. Nicht einbezogen sind fest mit dem Raum verbundene Einbauten, die nicht abzumontieren sind, wie gemauerte B\u00E4nke, begehbare Schr\u00E4nke oder Alkoven (Butzen). M\u00F6bel aus dem nichtprivaten Bereich, z. B. aus Werkstatt, Verwaltung, Kirche, Gastronomie usw., werden hier ebenfalls nicht behandelt." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#definition> "In den vorliegenden \"digitalen Thesaurus\" zur Gattung M\u00F6bel wurde, leicht gek\u00FCrzt, folgende Publikation eingearbeitet:" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#definition> "\"M\u00F6bel - Eine Typologie f\u00FCr Museen und Sammlungen\" von Gitta B\u00F6th, Manfred Hartmann, Bernd Kleebaum, Susanne Nickel und Viktor Pr\u00F6stler unter Mitarbeit von Herbert Bald, Barbara Grimm, Hubertus Habel, Dietlinde Peter, Guido Schmid und Leonhard Tomczyk, erschienen im Deutschen Kunstverlag M\u00FCnchen Berlin, 2005, ISBN 3-422-06512-1." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#definition> "Einleitung (gek\u00FCrzt)" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#definition> "Wie nennt man das Objekt? Diese Frage ist stetiger Wegbegleiter vieler auf dem Gebiet der Dokumentation T\u00E4tigen. Sicherlich, zu fast allen Gegenstandsbereichen gibt es Fachliteratur. Die zielt in der Regel aber nicht auf die Begriffsfindung, sondern setzt sie voraus. Infolgedessen variiert selbst auf einem einzelnen Fachgebiet die Terminologie ganz erheblich. Abhilfe schaffen kann hier ein Thesaurus, den DIN 1463 so definiert: \"Ein Thesaurus im Bereich der Information und Dokumentation ist eine geordnete Zusammenstellung von Begriffen und ihren (vorwiegend nat\u00FCrlichsprachigen) Bezeichnungen, die in einem Dokumentationsgebiet zum Indexieren, Speichern und Wiederauffinden dient.\" (DIN 1463-1, Ausgabe 1987-11: Erstellung und Weiterentwicklung von Thesauri; Einsprachige Thesauri, S.2)" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#definition> "Eine Forderung, f\u00FCr die Inventarisierung und Dokumentation von Museumssammlungen Thesauri zu schaffen, um Licht in den Terminologie-Dschungel zu bringen, ist nicht neu; sie wurde beispielsweise im Beschluss der Kultusministerkonferenz (KMK) zur \"Erfassung von Museumsbest\u00E4nden\" vom 27.01.1995 erhoben. Einen Gesamt-Thesaurus aller denkbaren (Museums-)Objekte wird es jedoch nicht geben. Die Arbeit daran f\u00E4nde kein Ende, da das Spektrum aller m\u00F6glichen Sammlungsgegenst\u00E4nde viel zu gro\u00DF ist." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#definition> "Der hier vorgelegte Thesaurus ber\u00FCcksichtigt einen in vielen Museen repr\u00E4sentierten Sammlungsbereich: M\u00F6bel. Er versteht sich als Hilfsmittel bei der Inventarisierung und Dokumentation und soll insbesondere denen Hilfestellung geben, die keine Spezialisten, keine Spezialistinnen im Bereich der M\u00F6belkunde sind. Der Thesaurus richtet sich also vorrangig an interessierte - aber nicht spezialisierte - akademisch ausgebildete Kulturhistoriker und Kulturhistorikerinnen sowie an kulturgeschichtlich engagierte Laien. Eigene Forschungsarbeiten kann und will er nicht ersetzen. Er erfasst die Grundformen der M\u00F6bel im deutschspr. Raum; allerdings sind hier lediglich die zum privaten Leben bestimmten h\u00E4uslichen M\u00F6bel ber\u00FCcksichtigt. M\u00F6bel aus dem nicht-privaten Bereich - zum Beispiel die Vielfalt von Werkstatt- und B\u00FCrom\u00F6beln oder die M\u00F6blierung von Krankenh\u00E4usern, Kirchen und \u00E4hnlichem - bleiben in dieser Publikation unber\u00FCcksichtigt; sie sind einer weiteren Ver\u00F6ffentlichung vorbehalten." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://www.w3.org/2004/02/skos/core#definition> "Die Grenze zwischen den im priv. Wohnbereich genutzten M\u00F6beln und den \"nicht-privaten\" ist nicht immer eindeutig zu ziehen. Welche Begriffe aufzunehmen waren, haben wir ausgiebig diskutiert....Aufgrund der wesentlich von der Konstruktion her abgeleiteten Bezeichnungen taucht eine Vielzahl landl\u00E4ufig g\u00E4ngiger Begriffe nicht als Deskriptor auf. So haben wir die verbreiteten geografischen, regionalspezifischen, funktionalen, formalen oder stilepochenbezogenen Bez. nicht als Deskriptoren aufgenommen.... Wir haben einen Teil dieser h\u00E4ufig benutzten Bez. mit einem Stern * versehen in den Thesaurus... aufgenommen, um zu verdeutlichen, dass wir diese M\u00F6belbez. nicht einfach nur \"vergessen\" haben, sondern dass sie als Nicht-Deskriptoren in einem an der Konstruktion orientierten Thesaurus nicht verwendet werden d\u00FCrfen." .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://purl.org/dc/elements/1.1/identifier> "00000793" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000793> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ablage"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000793> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000795> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000831> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://purl.org/dc/elements/1.1/identifier> "00000794" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://purl.org/dc/elements/1.1/creator> "B\u00F6th, Gitta" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://purl.org/dc/elements/1.1/creator> "Hartmann, Manfred" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://purl.org/dc/elements/1.1/creator> "Kleebaum, Bernd" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://purl.org/dc/elements/1.1/creator> "Nickel, Susanne" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://purl.org/dc/elements/1.1/creator> "Pr\u00F6stler, Viktor" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000794> <http://purl.org/dc/qualifier/1.0/created> "2003-04-07" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gestell"@de .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#inScheme> "moebel" .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#broader> <http://www.museumsvokabular.de/museumvok/gefaess/00000794> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002284> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000796> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000797> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000798> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002460> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000799> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002286> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000800> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000808> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000809> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002288> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000810> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000811> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002289> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000812> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002290> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000813> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002291> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000826> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002293> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000827> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00002462> .
+<http://www.museumsvokabular.de/museumvok/moebel/00000795> <http://www.w3.org/2004/02/skos/core#narrower> <http://www.museumsvokabular.de/museumvok/gefaess/00000828> .
